@@ -1,6 +1,6 @@
 # Diasporiana Python Parser
-Console application for scraping from books site diasporiana.org.ua
-It is Python analogue of Ruby application [Diasporiana Scraper](diasporiana_scraper)
+Console application for scraping from books site diasporiana.org.ua.
+It is Python analogue of Ruby application [Diasporiana Scraper](https://github.com/fatshinobi/diasporiana_scraper)
 
 ## System Requirements
   * Python >= 3.10
